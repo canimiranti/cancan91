@@ -8,12 +8,12 @@ job: "〈Central Bureau of Statistics, Indonesia〉"
 phone_number: 012-345-6789
 address: Manchester, United Kingdom
 email: ragdad.miranti@postgrad.manchester.ac.uk
-linkedin_username: https://www.linkedin.com/in/ragdad-cani-miranti-a9a97668/
-github_username: https://github.com/canimiranti
-instagram_username: https://www.instagram.com/canimiranti/?hl=id
-researchgate_username: https://www.researchgate.net/profile/Ragdad-Miranti
-facebook_username: https://www.facebook.com/ragdad.miranti
-youtube_username: https://www.youtube.com/channel/UC2VvClDr_V7y0OOEmppNy3Q
+linkedin_username: "https://www.linkedin.com/in/ragdad-cani-miranti-a9a97668/"
+github_username: "https://github.com/canimiranti"
+instagram_username: "https://www.instagram.com/canimiranti/?hl=id"
+researchgate_username: "https://www.researchgate.net/profile/Ragdad-Miranti"
+facebook_username: "https://www.facebook.com/ragdad.miranti"
+youtube_username: "https://www.youtube.com/channel/UC2VvClDr_V7y0OOEmppNy3Q"
 blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
