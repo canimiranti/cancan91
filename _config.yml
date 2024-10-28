@@ -2,7 +2,7 @@ title: Title of your CV site
 profile_img: /assets/img/profile.webp
 icon_img: /assets/img/icon.webp
 
-name: "Ragdad Cani"
+name: "Ragdad Cani Miranti"
 job: "〈Central Bureau of Statistics, Indonesia〉"
 
 phone_number: 012-345-6789
@@ -18,7 +18,7 @@ blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
-baseurl: cancan91/
+baseurl: /cancan91
 
 exclude:
   - _posts/
