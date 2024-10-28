@@ -3,7 +3,7 @@ listing-order: 4
 icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
-  ref: 
+    ref: 
       - "[1] **Ragdad Cani Miranti**, Carlos Mendez, “[Social and economic convergence across districts in indonesia: A spatial econometric approach](https://www.tandfonline.com/doi/full/10.1080/00074918.2022.2071415),” *Bulletin of Indonesian Economic Studies*, Volume 59, Issue 3, 2023."
       - "[2] **Ragdad Cani Miranti**, “[Is regional poverty converging across Indonesian districts? A distribution dynamics and spatial econometric approach](https://link.springer.com/article/10.1007/s41685-021-00199-3),” *Asia Pacific Journal of Regional Science*, Volume 5, pages 851–883, 2021."
       - "[3] **Ragdad Cani Miranti**, Deltha Airuzsh Lubis, Yongky Choirul Anam, “[Have Digitalization and Credit Access Accelerated Growth Performance in East Java?A Spatial Econometric and Google Trend Analysis](http://ejavec.id/index.php/ejavec/article/view/99),” *East Java Economic Journal*,Volume 7, Issue 1, 2023."
